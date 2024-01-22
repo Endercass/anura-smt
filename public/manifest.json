@@ -1,0 +1,10 @@
+{
+  "name": "AnuraOS System Management Toolkit",
+  "icon": "anura-smt.png",
+  "package": "anura.smt",
+  "versions": {
+    "1.0.0": "lib/dist/index.js"
+  },
+  "cache": false,
+  "currentVersion": "1.0.0"
+}
